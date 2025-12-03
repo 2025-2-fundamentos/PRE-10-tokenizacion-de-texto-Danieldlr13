@@ -1,3 +1,5 @@
-pytest
-nltk
 ipykernel
+pandas
+pytest
+scikit-learn
+xlrd

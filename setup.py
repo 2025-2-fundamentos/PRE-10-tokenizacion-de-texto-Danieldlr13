@@ -8,7 +8,9 @@ setup(
     packages=find_packages(),
     install_requires=[
         "pytest",
-        "nltk",
+        "pandas",
+        "scikit-learn",
         "ipykernel",
+        "xlrd",
     ],
 )
